@@ -123,7 +123,7 @@ ggplot(data = drought_exp_clean, # data frame
               height = 0) # not jittering points up and down
 ```
 
-**response here**
+**Some species have higher avergae total biomass than others.Grindelia has highest average biomass and Acmispon has the lowest biomass. **
 
 ### how does total biomass differ between water treatments?
 
